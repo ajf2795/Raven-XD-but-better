@@ -61,7 +61,7 @@ Raven B4, but not only for Hypixel.
 4. **Clone the Repository**:
    - Run the following commands in the terminal or command prompt:
      ```bash
-     git clone --recursive https://github.com/xia-mc/Raven-XD.git
+     git clone --recursive https://github.com/ajf2795/Raven-XD-but-better.git
      cd Raven-XD
      ```
 
